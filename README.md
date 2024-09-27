@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Khairul Anwar Bin Salleh]
+# Hi there! 👋 I'm Khairul Anwar Bin Salleh
 
 ### 🚀 Data Enthusiast | Aspiring Data Analyst | Problem Solver
 
@@ -33,7 +33,7 @@ Here are some projects that I’ve worked on. You can find the code and document
    _A classification project that predicts customer churn based on various features using logistic regression and decision trees._  
    [🔗 View Project](https://github.com/yourusername/customer-churn-ml)
 
-3. **Web Scraping McDonald's Store Locations**  
+3. **Web Scraping McDonald's Store Locations - In process**  
    _A web scraping project using `R` to extract store location data from McDonald's website._  
    [🔗 View Project](https://github.com/yourusername/mcdonalds-store-locations)
 
@@ -45,14 +45,14 @@ Here are some projects that I’ve worked on. You can find the code and document
 - **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
 - **Databases**: MySQL, PostgreSQL
 - **Data Visualization**: Power BI, Matplotlib, Seaborn, Excel
-- **Web Scraping**: BeautifulSoup, Rvest (R)
+- **Web Scraping**: R
 - **Version Control**: Git, GitHub
 
 ---
 
 ### 📫 Let's Connect!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/khairul-anwar-928629238/)
 - **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 - **Personal Website**: [yourname.github.io](https://yourname.github.io) (If applicable)
 
