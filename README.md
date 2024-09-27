@@ -64,7 +64,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoData01&show_icons=true&theme=radical)
 
 ---
 
