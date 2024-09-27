@@ -53,8 +53,6 @@ Here are some projects that I’ve worked on. You can find the code and document
 ### 📫 Let's Connect!
 
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/khairul-anwar-928629238/)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **Personal Website**: [yourname.github.io](https://yourname.github.io) (If applicable)
 
 ---
 
@@ -69,4 +67,6 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 ---
 
 ### 💡 Fun Fact
-I love playing badminton in my free time and enjoy exploring new data visualization techniques!
+
+When I'm not diving deep into data, you can find me playing sports 🏸 🏃‍♂️ ⚽ 🏹 or sketching out some creative ideas 🎨. I believe in balancing analytical work with physical activity and creativity to keep the mind and body sharp!
+
