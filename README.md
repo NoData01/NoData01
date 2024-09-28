@@ -52,7 +52,7 @@ Here are some projects that I’ve worked on. You can find the code and document
    [🔗 View Project](https://github.com/NoData01/Excel-Project_Road-Accident-Dashboard)
 
 7. **COVID-19 case prediction**
-   _This project implements a deep learning model using Long Short-Term Memory (LSTM) neural networks to predict new COVID-19 cases in Malaysia based on the past 30 days of recorded case data._
+   _This project implements a deep learning model using Long Short-Term Memory (LSTM) neural networks to predict new COVID-19 cases in Malaysia based on the past 30 days of recorded case data._  
    [🔗 View Project](https://github.com/NoData01/COVID19-cases-prediction)
    
 
