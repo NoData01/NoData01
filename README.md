@@ -1,9 +1,9 @@
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400" height="400" alt="Animated GIF">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" height="200" alt="Animated GIF">
 
 
 # Hi there! 👋 I'm Khairul Anwar Bin Salleh
 
-### 🚀 Data Enthusiast | Aspiring Data Analyst | Problem Solver
+### 🚀 Data Enthusiast | Aspiring Data Analyst | Analytical Problem Solver
 
 ---
 
@@ -28,17 +28,30 @@ Welcome to my GitHub! I'm passionate about uncovering insights from data, applyi
 
 Here are some projects that I’ve worked on. You can find the code and documentation in the repositories below.
 
-1. **Sales Dashboard in Power BI**  
+1. **Sales Performance Analysis Dashboard in Power BI**  
    _A dynamic dashboard analyzing sales data to uncover trends, insights, and KPIs._  
-   [🔗 View Project](https://github.com/yourusername/sales-dashboard-powerbi)
+   [🔗 View Project](https://github.com/NoData01/Sales-Performance-Analysis-Dashboard)
 
-2. **Predicting Customer Churn Using Machine Learning**  
-   _A classification project that predicts customer churn based on various features using logistic regression and decision trees._  
-   [🔗 View Project](https://github.com/yourusername/customer-churn-ml)
+2. **The Unseen Articles Categorization Project**  
+   _A text classification project that assigns a label or category to each document, allowing for efficient organization and retrieval of information using natural language processing (NLP)._  
+   [🔗 View Project](https://github.com/NoData01/The-Unseen-Articles-Categorization-Project)
 
-3. **Web Scraping McDonald's Store Locations - In process**  
-   _A web scraping project using `R` to extract store location data from McDonald's website._  
-   [🔗 View Project](https://github.com/yourusername/mcdonalds-store-locations)
+3. **Modelling the effect of COVID vaccines waning in the spread of disease**  
+   _A new compartmental model for studying and simulating the novel coronavirus (COVID-19) spread in Malaysia by incorporating the effect of the COVID-19 vaccine waning (using Matlab programming language)._    
+   [🔗 View Project](https://github.com/NoData01/Modelling-the-effect-of-COVID-vaccines-waning-in-the-spread-of-disease)
+
+4. **Heart Attack Prediction (Streamlit)**  
+   _A robust machine learning model that can efficiently predict the risk of a heart attack of a human in the future, based on the conditions or symptoms that he/she possesses._  
+   [🔗 View Project](https://github.com/NoData01/Heart-Attack-Prediction)
+
+5. **Sentiment Analysis of Reviews: Classifying Positive and Negative Feedback Using a 60,000-Record Dataset**  
+   _This project leverages machine learning techniques to analyze and classify sentiments in textual reviews._  
+   [🔗 View Project](https://github.com/NoData01/Sentiment-Analysis)
+
+6. **Road Accident Dashboard in Excel**
+   _This project focuses on analysing accident data, which is essential for identifying patterns, high-risk areas, and contributing factors to accidents._  
+   [🔗 View Project](https://github.com/NoData01/Excel-Project_Road-Accident-Dashboard)
+   
 
 ---
 
