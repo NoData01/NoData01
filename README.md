@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400" height="400" alt="Animated GIF">
+
+
 # Hi there! 👋 I'm Khairul Anwar Bin Salleh
 
 ### 🚀 Data Enthusiast | Aspiring Data Analyst | Problem Solver
@@ -10,13 +13,13 @@ Welcome to my GitHub! I'm passionate about uncovering insights from data, applyi
 
 ### 🔍 About Me
 
-- 🎓 **Background**: I have a degree in Mathematics, with strong foundations in **statistical analysis** and **mathematical modeling**.
+- 🎓 **Background**: I have a degree in Mathematics, with strong foundations in **statistical analysis** and **mathematical modelling**.
 - 🛠️ **Skills**:
   - **Programming**: Python, R, SQL, MATLAB, HTML, CSS, JavaScript
   - **Data Visualization**: Power BI, Matplotlib, Seaborn
   - **Machine Learning**: Scikit-learn, TensorFlow
   - **Data Tools**: Excel (Pivot Tables, Power Query), Pandas, NumPy
-- 🌱 **Currently Learning**: Advanced data manipulation with `SQL` and building interactive dashboards with `Power BI`.
+- 🌱 **Currently Learning**: JavaScript and web scraping using 'R'.
 - 💼 **Career Goals**: Pursuing opportunities in data analysis, data science, or any analytical roles.
 
 ---
@@ -39,16 +42,6 @@ Here are some projects that I’ve worked on. You can find the code and document
 
 ---
 
-### 📊 Tools & Technologies
-
-- **Languages**: Python, R, SQL, MATLAB, HTML
-- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
-- **Databases**: MySQL, PostgreSQL
-- **Data Visualization**: Power BI, Matplotlib, Seaborn, Excel
-- **Web Scraping**: R
-- **Version Control**: Git, GitHub
-
----
 
 ### 📫 Let's Connect!
 
