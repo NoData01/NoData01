@@ -1,7 +1,8 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" height="200" alt="Animated GIF">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" height="300" alt="Animated GIF">
 
 
-# Hi there! 👋 I'm Khairul Anwar Bin Salleh
+
+# Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="50" height="60" /> I'm Khairul Anwar Bin Salleh
 
 ### 🚀 Data Enthusiast | Aspiring Data Analyst | Analytical Problem Solver
 
@@ -51,6 +52,10 @@ Here are some projects that I’ve worked on. You can find the code and document
 6. **Road Accident Dashboard in Excel**
    _This project focuses on analysing accident data, which is essential for identifying patterns, high-risk areas, and contributing factors to accidents._  
    [🔗 View Project](https://github.com/NoData01/Excel-Project_Road-Accident-Dashboard)
+
+7. **COVID-19 case prediction**
+   _This project implements a deep learning model using Long Short-Term Memory (LSTM) neural networks to predict new COVID-19 cases in Malaysia based on the past 30 days of recorded case data._
+   [🔗 View Project](https://github.com/NoData01/COVID19-cases-prediction)
    
 
 ---
