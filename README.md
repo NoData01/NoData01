@@ -39,19 +39,23 @@ Here are some projects that I’ve worked on. You can find the code and document
    _A new compartmental model for studying and simulating the novel coronavirus (COVID-19) spread in Malaysia by incorporating the effect of the COVID-19 vaccine waning (using Matlab programming language)._    
    [🔗 View Project](https://github.com/NoData01/Modelling-the-effect-of-COVID-vaccines-waning-in-the-spread-of-disease)
 
-4. **Heart Attack Prediction (Streamlit)**  
+4. **Simple Stopwatch HTML/CSS/JavaScript Project**  
+   _This Stopwatch Application is a simple yet functional web-based timer built using HTML, CSS, and JavaScript._    
+   [🔗 View Project](https://github.com/NoData01/Simple-Stopwatch-HTML-Project)
+
+5. **Heart Attack Prediction (Streamlit)**  
    _A robust machine learning model that can efficiently predict the risk of a heart attack of a human in the future, based on the conditions or symptoms that he/she possesses._  
    [🔗 View Project](https://github.com/NoData01/Heart-Attack-Prediction)
 
-5. **Sentiment Analysis of Reviews: Classifying Positive and Negative Feedback Using a 60,000-Record Dataset**  
+6. **Sentiment Analysis of Reviews: Classifying Positive and Negative Feedback Using a 60,000-Record Dataset**  
    _This project leverages machine learning techniques to analyze and classify sentiments in textual reviews._  
    [🔗 View Project](https://github.com/NoData01/Sentiment-Analysis)
 
-6. **Road Accident Dashboard in Excel**
+7. **Road Accident Dashboard in Excel**
    _This project focuses on analysing accident data, which is essential for identifying patterns, high-risk areas, and contributing factors to accidents._  
    [🔗 View Project](https://github.com/NoData01/Excel-Project_Road-Accident-Dashboard)
 
-7. **COVID-19 case prediction**
+8. **COVID-19 case prediction**
    _This project implements a deep learning model using Long Short-Term Memory (LSTM) neural networks to predict new COVID-19 cases in Malaysia based on the past 30 days of recorded case data._  
    [🔗 View Project](https://github.com/NoData01/COVID19-cases-prediction)
    
