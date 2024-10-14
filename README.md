@@ -1,6 +1,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="150" height="150" alt="Animated GIF"> -->
 
-# Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="50" height="60" /> I'm Khairul Anwar Bin Salleh
+# print("Hi there!")
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="50" height="60" /> I'm Khairul Anwar Bin Salleh
 
 ### 🚀 Data Enthusiast | Aspiring Data Analyst | Analytical Problem Solver
 
