@@ -52,14 +52,17 @@ Here are some projects that I’ve worked on. You can find the code and document
    _This project leverages machine learning techniques to analyze and classify sentiments in textual reviews._  
    [🔗 View Project](https://github.com/NoData01/Sentiment-Analysis)
 
-7. **Road Accident Dashboard in Excel**
-   _This project focuses on analysing accident data, which is essential for identifying patterns, high-risk areas, and contributing factors to accidents._  
+7. **Road Accident Dashboard in Excel**  
+   _This project focuses on analysing accident data, essential for identifying patterns, high-risk areas, and contributing factors to accidents._  
    [🔗 View Project](https://github.com/NoData01/Excel-Project_Road-Accident-Dashboard)
 
-8. **COVID-19 case prediction**
+8. **COVID-19 case prediction**  
    _This project implements a deep learning model using Long Short-Term Memory (LSTM) neural networks to predict new COVID-19 cases in Malaysia based on the past 30 days of recorded case data._  
    [🔗 View Project](https://github.com/NoData01/COVID19-cases-prediction)
-   
+
+9. **Moving Cloud Animations Effect**  
+   _Explore the power of CSS animations and JavaScript with this Dynamic Sky project! This interactive background brings a serene, floating cloud animation to life, creating a calming, animated sky effect that enhances any web page._  
+   [🔗 View Project](https://github.com/NoData01/Moving_Clouod_Animations_Effect)
 
 ---
 
