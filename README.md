@@ -62,7 +62,7 @@ Here are some projects that I’ve worked on. You can find the code and document
 
 9. **Moving Cloud Animations Effect**  
    _Explore the power of CSS animations and JavaScript with this Dynamic Sky project! This interactive background brings a serene, floating cloud animation to life, creating a calming, animated sky effect that enhances any web page._  
-   [🔗 View Project](https://github.com/NoData01/Moving_Clouod_Animations_Effect)
+   [🔗 View Project](https://github.com/NoData01/Moving_Cloud_Animations_Effect)
 
 ---
 
