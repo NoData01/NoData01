@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm passionate about uncovering insights from data, applyi
 
 ### 💻 Projects
 
-Here are some projects that I’ve worked on. You can find the code and documentation in the repositories below.
+Here are some projects that I’ve worked on. You can find the code and documentation below, or feel free to explore my repositories for more interesting projects.
 
 1. **Sales Performance Analysis Dashboard in Power BI**  
    _A dynamic dashboard analyzing sales data to uncover trends, insights, and KPIs._  
