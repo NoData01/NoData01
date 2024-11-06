@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm passionate about uncovering insights from data, applyi
   - **Data Visualization**: Power BI, Matplotlib, Seaborn
   - **Machine Learning**: Scikit-learn, TensorFlow
   - **Data Tools**: Excel (Pivot Tables, Power Query), Pandas, NumPy
-- 🌱 **Currently Learning**: JavaScript and web scraping using 'R'.
+- 🌱 **Currently Learning**: Java and web scraping using 'R'.
 - 💼 **Career Goals**: Pursuing opportunities in data analysis, data science, or any analytical roles.
 
 ---
