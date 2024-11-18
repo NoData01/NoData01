@@ -64,6 +64,10 @@ Here are some projects that I’ve worked on. You can find the code and document
    _Explore the power of CSS animations and JavaScript with this Dynamic Sky project! This interactive background brings a serene, floating cloud animation to life, creating a calming, animated sky effect that enhances any web page._  
    [🔗 View Project](https://github.com/NoData01/Moving_Cloud_Animations_Effect)
 
+10. **Netflix Sign-In Page Clone**  
+   _A mini-project replicating the Netflix sign-in interface using HTML and CSS, focused on clean code, responsive design, and pixel-perfect styling._  
+   [🔗 View Project](https://github.com/NoData01/Netflix_Sign_In_Page)
+
 ---
 
 
