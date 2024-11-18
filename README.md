@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm passionate about uncovering insights from data, applyi
 
 - 🎓 **Background**: I have a degree in Mathematics, with strong foundations in **statistical analysis** and **mathematical modelling**.
 - 🛠️ **Skills**:
-  - **Programming**: Python, R, SQL, MATLAB, HTML, CSS, JavaScript
+  - **Programming**: Python, R, SQL, MATLAB, C++, HTML, CSS, JavaScript
   - **Data Visualization**: Power BI, Matplotlib, Seaborn
   - **Machine Learning**: Scikit-learn, TensorFlow
   - **Data Tools**: Excel (Pivot Tables, Power Query), Pandas, NumPy
