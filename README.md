@@ -68,6 +68,10 @@ Here are some projects that I’ve worked on. You can find the code and document
    _A mini-project replicating the Netflix sign-in interface using HTML and CSS, focused on clean code, responsive design, and pixel-perfect styling._  
    [🔗 View Project](https://github.com/NoData01/Netflix_Sign_In_Page)
 
+11. **Sales Performance Analysis of Blinkit App in Power BI**  
+   _Developed a Power BI dashboard to analyze Blinkit app sales data, providing actionable insights on sales performance, customer trends, and regional distributions. Focused on transforming raw data into visually compelling and decision-making tools._  
+   [🔗 View Project](https://github.com/NoData01/PowerBI_Sales_Performance_Analysis_of_Blinkit_App))
+
 ---
 
 
