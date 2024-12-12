@@ -72,6 +72,10 @@ Here are some projects that I’ve worked on. You can find the code and document
    _Developed a Power BI dashboard to analyze Blinkit app sales data, providing actionable insights on sales performance, customer trends, and regional distributions. Focused on transforming raw data into visually compelling and decision-making tools._  
    [🔗 View Project](https://github.com/NoData01/PowerBI_Sales_Performance_Analysis_of_Blinkit_App)
 
+12. **Simple 3D Card with HTML and CSS**  
+   _This project demonstrates a 3D card flip effect using HTML and CSS. The project showcases the use of CSS 3D transformations and animations to create a visually engaging experience. It's a great example of front-end design principles and can be adapted for use in interactive UI components, profile cards, or product showcases._  
+   [🔗 View Project](https://github.com/NoData01/Simple_3D_Interactive_Card_Flip/tree/main)
+
 ---
 
 
