@@ -76,6 +76,11 @@ Here are some projects that I’ve worked on. You can find the code and document
    _This project demonstrates a 3D card flip effect using HTML and CSS. The project showcases the use of CSS 3D transformations and animations to create a visually engaging experience. It's a great example of front-end design principles and can be adapted for use in interactive UI components, profile cards, or product showcases._  
    [🔗 View Project](https://github.com/NoData01/Simple_3D_Interactive_Card_Flip/tree/main)
 
+13. **Simple DOM Calculator**  
+   _This project demonstrates the use of DOM manipulation to create a functional calculator for basic arithmetic operations._   
+   [🔗 View Project](https://github.com/NoData01/DOMProject-Calculator/tree/main)
+
+
 ---
 
 
